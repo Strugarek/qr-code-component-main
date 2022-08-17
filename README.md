@@ -18,7 +18,7 @@ My first attempt to Frontend Mentor task. It was an easy job to warm up.
 
 ### Screenshot
 
-(./design/screenshot.jpg)
+[Check this out](./design/screenshot.jpg)
 
 ### Links
 
